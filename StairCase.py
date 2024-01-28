@@ -1,3 +1,5 @@
+# https://www.hackerrank.com/challenges/staircase/problem
+
 #!/bin/python3
 
 import math

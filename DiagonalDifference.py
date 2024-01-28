@@ -1,3 +1,5 @@
+# https://www.hackerrank.com/challenges/diagonal-difference/problem
+
 #!/bin/python3
 
 import math
